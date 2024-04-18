@@ -1,0 +1,141 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213328722353@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B22D048A41A67463A5',
+    participant: undefined
+  },
+  messageTimestamp: 1713420683,
+  pushName: 'oliverromero73',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5213328722353'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5aa9af5f-6f5e-4452-af4e-4daded35ea93',
+  keyword: 'key_342a82a1-dc62-447f-92d9-bc628a495df6',
+  answer: 'Bienvenido a tu chatbo, para empezar te pedire algunos datos, ¿estas seguro de continuar?\n' +
+    '\n' +
+    ' 1️⃣ SI \n' +
+    ' 2️⃣ NO',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ad27f75b00a6ff2778213653e254ec57'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213328722353@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB060DECFC75F06F6D823',
+    participant: undefined
+  },
+  messageTimestamp: 1713420685,
+  pushName: 'oliverromero73',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5213328722353'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213328722353@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E905E90C66A505FD63',
+    participant: undefined
+  },
+  messageTimestamp: 1713420687,
+  pushName: 'oliverromero73',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'oliver',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'oliver',
+  from: '5213328722353'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213328722353@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C24A8DD64A092AA3CF',
+    participant: undefined
+  },
+  messageTimestamp: 1713420689,
+  pushName: 'oliverromero73',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '25',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '25',
+  from: '5213328722353'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213328722353@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D4B0F2F3B3EA6FB4BB',
+    participant: undefined
+  },
+  messageTimestamp: 1713420692,
+  pushName: 'oliverromero73',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'colorear',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'colorear',
+  from: '5213328722353'
+}
